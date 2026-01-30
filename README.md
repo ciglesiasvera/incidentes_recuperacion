@@ -30,7 +30,9 @@ Este proyecto implementa un sistema automatizado de respuesta a incidentes para 
 incidentes_recuperacion/
 ├── README.md                    # Este archivo
 ├── .gitignore                  # Archivos ignorados por Git
-├── runbook.py                  # Implementación principal del runbook
+├── ALERT_SYSTEM.md             # Documentación del sistema de alertas (PagerDuty/OpsGenie)
+├── RESPONSE_TEAM.md            # Definición del equipo de respuesta con roles claros
+├── runbook.py                  # Runbook documentado y accesible
 ├── simulation.py               # Script de simulación completo
 ├── post_mortem_example.md      # Ejemplo de post-mortem generado
 ├── practice.md                 # Enunciado del ejercicio práctico
